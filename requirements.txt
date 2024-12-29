@@ -1,0 +1,7 @@
+
+nltk
+spacy
+pdfplumber
+transformers
+pandas
+matplotlib
