@@ -34,7 +34,7 @@ Ensure the following tools and libraries are installed:
 
 ## Dependencies
 
-The following python libraries aare required:
+The following python libraries are required:
 - nltk
 - spacy
 - pandas
