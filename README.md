@@ -79,9 +79,7 @@ pip install -r requirements.txt
 
    - Shubham Sharma: Developed the code for text extraction, preprocessing, and analysis.
    - Harshini Akana: Assisted with coding and data collection.
-   - Shakti Kumar Roy 
-   - Nabin Pandey 
-   - Shravan
+
 
 
 
