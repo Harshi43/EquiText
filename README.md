@@ -1,4 +1,4 @@
-# Gender Bias Analysis Tool
+# Gender Bias Detector Tool
 
 ## Project Overview
 This tool analyzes and detects gender bias in NCERT textbook texts, aiming to promote equitable representation in educational content. It uses Python-based NLP and machine learning methods to assess:
